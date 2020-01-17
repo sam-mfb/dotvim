@@ -13,3 +13,6 @@
 [submodule "pack/vim-tmux-navigator/start/vim-tmux-navigator"]
 	path = pack/vim-tmux-navigator/start/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "pack/fastfold/start/FastFold"]
+	path = pack/fastfold/start/FastFold
+	url = https://github.com/Konfekt/FastFold.git
