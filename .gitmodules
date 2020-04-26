@@ -16,3 +16,6 @@
 [submodule "pack/fastfold/start/FastFold"]
 	path = pack/fastfold/start/FastFold
 	url = https://github.com/Konfekt/FastFold.git
+[submodule "pack/coc/start/coc.nvim"]
+	path = pack/coc/start/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
