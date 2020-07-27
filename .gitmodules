@@ -19,3 +19,6 @@
 [submodule "pack/coc/start/coc.nvim"]
 	path = pack/coc/start/coc.nvim
 	url = https://github.com/neoclide/coc.nvim.git
+[submodule "pack/vim-doge/start/vim-doge"]
+	path = pack/vim-doge/start/vim-doge
+	url = https://github.com/kkoomen/vim-doge
