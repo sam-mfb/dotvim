@@ -1,9 +1,3 @@
-[submodule "pack/js-syntax/opt/vim-javascript"]
-	path = pack/js-syntax/opt/vim-javascript
-	url = https://github.com/pangloss/vim-javascript
-[submodule "pack/js-syntax/opt/vim-jsx-pretty"]
-	path = pack/js-syntax/opt/vim-jsx-pretty
-	url = https://github.com/MaxMEllon/vim-jsx-pretty.git
 [submodule "pack/themes/opt/oceanic-next"]
 	path = pack/themes/opt/oceanic-next
 	url = https://github.com/mhartington/oceanic-next.git
