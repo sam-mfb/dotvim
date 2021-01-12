@@ -8,5 +8,24 @@
     "css",
     "scss",
     "markdown"
+  ],
+  "cSpell.userWords": [
+    "DATETIME",
+    "DOCUMENTID",
+    "Dtos",
+    "Metatdata",
+    "PLAYERID",
+    "PSPDF",
+    "Peloton",
+    "Sros",
+    "Titlebar",
+    "accum",
+    "datepicker",
+    "draftjs",
+    "pdfs",
+    "reduxjs",
+    "unmock",
+    "usermatters",
+    "uuidv"
   ]
 }
